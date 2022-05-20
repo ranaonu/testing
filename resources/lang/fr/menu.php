@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'Home' => 'Maison',
+    'Shipping' => 'Expédition',
+    'Get a Quote' => 'Obtenir un devis',
+    'Create a Shipment' => 'Créer un envoi',
+    'Schedule a Pickup' => 'Planifier un ramassage',
+    'Shipping History' => 'Historique des expéditions',
+    'Tracking' => 'Suivie',
+    'Track a Package' => 'Suivre un colis',
+    'Change a Delivery' => 'Modifier une livraison',
+    'Service Navigator' => 'Navigateur de services',
+    'Manage Shipment' => "Gérer l'expédition",
+    'Upgrade Account' => 'Améliorer le compte',
+    'Our locations' => 'Nos emplacements',
+    'Order Supplies' => 'Commander des fournitures',
+    'Pay a Shipment' => 'Payer un envoi',
+    'Verify a payment' => 'Vérifier un paiement',
+    'Discount a shipment' => 'Escompter un envoi',
+    'Billing section' => 'Rubrique facturation',
+    'Help and Support' => 'Aide et soutien',
+    'Chat wih us' => 'Discute avec nous',
+    'Contact us' => 'Contactez-nous',
+    'Submit a Ticket' => 'Soumettre un ticket',
+    'Sign in' => "S'identifier",
+    'Sign up' => "S'inscrire",
+    'My Account' => 'Mon compte',
+    'Sign Out' => 'Se déconnecter'
+];
